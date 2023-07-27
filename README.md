@@ -1,0 +1,1 @@
+#### A multi-layer perceptron (MLP) neural network to forecast system energy demand for CAISO. The framework used here is Pytorch.
